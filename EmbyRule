@@ -1,19 +1,11 @@
 # NAME: Emby
-HOST-KEYWORD, emby , Emby
-#AGA公益服（中国电信可直连观看）
-HOST, emby •plusmedia.site, Emby
-＃ CF公益服（仅限挂代理观看）
-HOST, emby-cf •plusmedia.site, Emby
- 备用服
+HOST, emby.plusmedia.site, Emby
+HOST, emby-cf.plusmedia.site, Emby
 HOST, emby.xeton.dev, Emby
 HOST, jellyfin.xeton.dev, Emby
 HOST, movie.xeton.dev, Emby
 HOST, servers.xeton.dev, Emby
-# Nexital1y/AmyTelecom专属服（仅限美国专用节点观看）
 HOST, emby.nexitally.com, Emby
-＃ skicat专属服
 HOST, https:/1skicat.tv, Emby
-# Godetia专属服1（猫熊）
 HOST, emby .ssltd.xyz, Emby
-# Godetia专属服2 (3DM)
 HOST, emby.3DMmp.com, Emby
