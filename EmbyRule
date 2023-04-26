@@ -1,11 +1,11 @@
 # NAME: Emby
 HOST, emby.plusmedia.site, Emby
-HOST, emby-cf.plusmedia.site, Emby
+HOST, cf.plusmedia.site, Emby
 HOST, emby.xeton.dev, Emby
 HOST, jellyfin.xeton.dev, Emby
 HOST, movie.xeton.dev, Emby
 HOST, servers.xeton.dev, Emby
 HOST, emby.nexitally.com, Emby
 HOST, 1skicat.tv, Emby
-HOST, emby .ssltd.xyz, Emby
+HOST, emby.ssltd.xyz, Emby
 HOST, emby.3DMmp.com, Emby
